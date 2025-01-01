@@ -1,0 +1,2001 @@
+user_id,user_full_name,movie_id,movie_name,rating
+1,User_001,6,Fight Club,1
+1,User_001,8,The Shawshank Redemption,1
+1,User_001,5,Pulp Fiction,5
+1,User_001,3,The Godfather,4
+1,User_001,15,Star Wars: A New Hope,4
+1,User_001,19,The Lord of the Rings: The Fellowship of the Ring,2
+1,User_001,13,Jurassic Park,5
+1,User_001,14,Toy Story,1
+1,User_001,1,Inception,4
+1,User_001,18,Harry Potter and the Philosopher's Stone,3
+1,User_001,9,Interstellar,3
+1,User_001,17,Frozen,2
+1,User_001,4,The Dark Knight,3
+1,User_001,10,Gladiator,1
+1,User_001,7,Forrest Gump,3
+1,User_001,11,Titanic,3
+1,User_001,12,The Avengers,4
+1,User_001,20,The Silence of the Lambs,4
+1,User_001,2,The Matrix,5
+1,User_001,16,The Lion King,4
+2,User_002,2,The Matrix,1
+2,User_002,12,The Avengers,4
+2,User_002,9,Interstellar,2
+2,User_002,13,Jurassic Park,2
+2,User_002,6,Fight Club,5
+2,User_002,10,Gladiator,2
+2,User_002,5,Pulp Fiction,3
+2,User_002,17,Frozen,2
+2,User_002,7,Forrest Gump,3
+2,User_002,19,The Lord of the Rings: The Fellowship of the Ring,2
+2,User_002,20,The Silence of the Lambs,3
+2,User_002,15,Star Wars: A New Hope,5
+2,User_002,18,Harry Potter and the Philosopher's Stone,2
+2,User_002,14,Toy Story,2
+2,User_002,11,Titanic,4
+2,User_002,3,The Godfather,3
+2,User_002,16,The Lion King,1
+2,User_002,1,Inception,2
+2,User_002,8,The Shawshank Redemption,3
+2,User_002,4,The Dark Knight,5
+3,User_003,9,Interstellar,3
+3,User_003,8,The Shawshank Redemption,4
+3,User_003,18,Harry Potter and the Philosopher's Stone,1
+3,User_003,3,The Godfather,1
+3,User_003,16,The Lion King,1
+3,User_003,17,Frozen,4
+3,User_003,19,The Lord of the Rings: The Fellowship of the Ring,2
+3,User_003,14,Toy Story,4
+3,User_003,4,The Dark Knight,4
+3,User_003,10,Gladiator,1
+3,User_003,20,The Silence of the Lambs,3
+3,User_003,13,Jurassic Park,5
+3,User_003,5,Pulp Fiction,1
+3,User_003,12,The Avengers,4
+3,User_003,15,Star Wars: A New Hope,2
+3,User_003,7,Forrest Gump,4
+3,User_003,1,Inception,4
+3,User_003,6,Fight Club,5
+3,User_003,11,Titanic,5
+3,User_003,2,The Matrix,1
+4,User_004,8,The Shawshank Redemption,1
+4,User_004,2,The Matrix,4
+4,User_004,1,Inception,2
+4,User_004,20,The Silence of the Lambs,4
+4,User_004,15,Star Wars: A New Hope,2
+4,User_004,18,Harry Potter and the Philosopher's Stone,1
+4,User_004,17,Frozen,2
+4,User_004,13,Jurassic Park,4
+4,User_004,7,Forrest Gump,4
+4,User_004,16,The Lion King,5
+4,User_004,9,Interstellar,5
+4,User_004,19,The Lord of the Rings: The Fellowship of the Ring,3
+4,User_004,14,Toy Story,2
+4,User_004,6,Fight Club,5
+4,User_004,10,Gladiator,4
+4,User_004,4,The Dark Knight,4
+4,User_004,5,Pulp Fiction,5
+4,User_004,11,Titanic,3
+4,User_004,12,The Avengers,2
+4,User_004,3,The Godfather,2
+5,User_005,12,The Avengers,4
+5,User_005,9,Interstellar,1
+5,User_005,11,Titanic,1
+5,User_005,14,Toy Story,1
+5,User_005,8,The Shawshank Redemption,3
+5,User_005,18,Harry Potter and the Philosopher's Stone,1
+5,User_005,10,Gladiator,1
+5,User_005,16,The Lion King,4
+5,User_005,17,Frozen,1
+5,User_005,7,Forrest Gump,2
+5,User_005,3,The Godfather,4
+5,User_005,19,The Lord of the Rings: The Fellowship of the Ring,1
+5,User_005,2,The Matrix,1
+5,User_005,13,Jurassic Park,4
+5,User_005,15,Star Wars: A New Hope,2
+5,User_005,5,Pulp Fiction,5
+5,User_005,4,The Dark Knight,1
+5,User_005,1,Inception,5
+5,User_005,6,Fight Club,5
+5,User_005,20,The Silence of the Lambs,4
+6,User_006,9,Interstellar,5
+6,User_006,7,Forrest Gump,4
+6,User_006,10,Gladiator,3
+6,User_006,16,The Lion King,4
+6,User_006,1,Inception,4
+6,User_006,6,Fight Club,5
+6,User_006,2,The Matrix,2
+6,User_006,5,Pulp Fiction,3
+6,User_006,4,The Dark Knight,1
+6,User_006,3,The Godfather,1
+6,User_006,17,Frozen,5
+6,User_006,19,The Lord of the Rings: The Fellowship of the Ring,2
+6,User_006,11,Titanic,3
+6,User_006,18,Harry Potter and the Philosopher's Stone,2
+6,User_006,13,Jurassic Park,5
+6,User_006,14,Toy Story,5
+6,User_006,12,The Avengers,5
+6,User_006,15,Star Wars: A New Hope,4
+6,User_006,8,The Shawshank Redemption,3
+6,User_006,20,The Silence of the Lambs,2
+7,User_007,5,Pulp Fiction,4
+7,User_007,18,Harry Potter and the Philosopher's Stone,4
+7,User_007,4,The Dark Knight,4
+7,User_007,2,The Matrix,2
+7,User_007,3,The Godfather,3
+7,User_007,9,Interstellar,3
+7,User_007,12,The Avengers,3
+7,User_007,6,Fight Club,2
+7,User_007,11,Titanic,3
+7,User_007,17,Frozen,1
+7,User_007,15,Star Wars: A New Hope,1
+7,User_007,14,Toy Story,1
+7,User_007,16,The Lion King,5
+7,User_007,19,The Lord of the Rings: The Fellowship of the Ring,5
+7,User_007,20,The Silence of the Lambs,5
+7,User_007,7,Forrest Gump,5
+7,User_007,8,The Shawshank Redemption,5
+7,User_007,10,Gladiator,3
+7,User_007,13,Jurassic Park,2
+7,User_007,1,Inception,3
+8,User_008,6,Fight Club,3
+8,User_008,11,Titanic,4
+8,User_008,8,The Shawshank Redemption,2
+8,User_008,19,The Lord of the Rings: The Fellowship of the Ring,5
+8,User_008,2,The Matrix,3
+8,User_008,14,Toy Story,3
+8,User_008,17,Frozen,2
+8,User_008,7,Forrest Gump,2
+8,User_008,16,The Lion King,2
+8,User_008,3,The Godfather,5
+8,User_008,18,Harry Potter and the Philosopher's Stone,1
+8,User_008,10,Gladiator,4
+8,User_008,13,Jurassic Park,4
+8,User_008,9,Interstellar,2
+8,User_008,1,Inception,1
+8,User_008,5,Pulp Fiction,2
+8,User_008,15,Star Wars: A New Hope,1
+8,User_008,20,The Silence of the Lambs,1
+8,User_008,12,The Avengers,3
+8,User_008,4,The Dark Knight,2
+9,User_009,12,The Avengers,4
+9,User_009,2,The Matrix,2
+9,User_009,7,Forrest Gump,5
+9,User_009,17,Frozen,4
+9,User_009,4,The Dark Knight,3
+9,User_009,5,Pulp Fiction,4
+9,User_009,3,The Godfather,5
+9,User_009,11,Titanic,2
+9,User_009,13,Jurassic Park,4
+9,User_009,18,Harry Potter and the Philosopher's Stone,4
+9,User_009,1,Inception,1
+9,User_009,16,The Lion King,3
+9,User_009,20,The Silence of the Lambs,1
+9,User_009,8,The Shawshank Redemption,3
+9,User_009,14,Toy Story,2
+9,User_009,15,Star Wars: A New Hope,4
+9,User_009,6,Fight Club,5
+9,User_009,19,The Lord of the Rings: The Fellowship of the Ring,1
+9,User_009,10,Gladiator,5
+9,User_009,9,Interstellar,3
+10,User_010,17,Frozen,2
+10,User_010,16,The Lion King,1
+10,User_010,14,Toy Story,2
+10,User_010,20,The Silence of the Lambs,4
+10,User_010,10,Gladiator,4
+10,User_010,7,Forrest Gump,3
+10,User_010,4,The Dark Knight,3
+10,User_010,6,Fight Club,4
+10,User_010,1,Inception,4
+10,User_010,13,Jurassic Park,4
+10,User_010,8,The Shawshank Redemption,5
+10,User_010,11,Titanic,3
+10,User_010,9,Interstellar,2
+10,User_010,12,The Avengers,3
+10,User_010,2,The Matrix,4
+10,User_010,3,The Godfather,1
+10,User_010,19,The Lord of the Rings: The Fellowship of the Ring,2
+10,User_010,5,Pulp Fiction,4
+10,User_010,15,Star Wars: A New Hope,5
+10,User_010,18,Harry Potter and the Philosopher's Stone,2
+11,User_011,12,The Avengers,1
+11,User_011,17,Frozen,4
+11,User_011,11,Titanic,4
+11,User_011,16,The Lion King,3
+11,User_011,15,Star Wars: A New Hope,2
+11,User_011,8,The Shawshank Redemption,2
+11,User_011,20,The Silence of the Lambs,3
+11,User_011,14,Toy Story,3
+11,User_011,5,Pulp Fiction,4
+11,User_011,2,The Matrix,4
+11,User_011,10,Gladiator,3
+11,User_011,4,The Dark Knight,1
+11,User_011,7,Forrest Gump,4
+11,User_011,1,Inception,5
+11,User_011,18,Harry Potter and the Philosopher's Stone,2
+11,User_011,3,The Godfather,4
+11,User_011,19,The Lord of the Rings: The Fellowship of the Ring,2
+11,User_011,6,Fight Club,5
+11,User_011,13,Jurassic Park,1
+11,User_011,9,Interstellar,4
+12,User_012,2,The Matrix,2
+12,User_012,5,Pulp Fiction,1
+12,User_012,3,The Godfather,5
+12,User_012,14,Toy Story,1
+12,User_012,4,The Dark Knight,5
+12,User_012,20,The Silence of the Lambs,1
+12,User_012,11,Titanic,1
+12,User_012,8,The Shawshank Redemption,4
+12,User_012,17,Frozen,1
+12,User_012,18,Harry Potter and the Philosopher's Stone,3
+12,User_012,9,Interstellar,4
+12,User_012,16,The Lion King,3
+12,User_012,19,The Lord of the Rings: The Fellowship of the Ring,4
+12,User_012,10,Gladiator,4
+12,User_012,1,Inception,4
+12,User_012,13,Jurassic Park,1
+12,User_012,15,Star Wars: A New Hope,3
+12,User_012,12,The Avengers,1
+12,User_012,7,Forrest Gump,5
+12,User_012,6,Fight Club,2
+13,User_013,15,Star Wars: A New Hope,2
+13,User_013,19,The Lord of the Rings: The Fellowship of the Ring,4
+13,User_013,20,The Silence of the Lambs,2
+13,User_013,11,Titanic,2
+13,User_013,12,The Avengers,1
+13,User_013,17,Frozen,4
+13,User_013,16,The Lion King,3
+13,User_013,6,Fight Club,4
+13,User_013,8,The Shawshank Redemption,5
+13,User_013,10,Gladiator,4
+13,User_013,3,The Godfather,2
+13,User_013,13,Jurassic Park,1
+13,User_013,2,The Matrix,3
+13,User_013,1,Inception,1
+13,User_013,4,The Dark Knight,4
+13,User_013,9,Interstellar,5
+13,User_013,7,Forrest Gump,4
+13,User_013,5,Pulp Fiction,3
+13,User_013,18,Harry Potter and the Philosopher's Stone,2
+13,User_013,14,Toy Story,1
+14,User_014,16,The Lion King,3
+14,User_014,6,Fight Club,5
+14,User_014,1,Inception,3
+14,User_014,3,The Godfather,4
+14,User_014,2,The Matrix,2
+14,User_014,13,Jurassic Park,5
+14,User_014,20,The Silence of the Lambs,3
+14,User_014,19,The Lord of the Rings: The Fellowship of the Ring,3
+14,User_014,15,Star Wars: A New Hope,2
+14,User_014,5,Pulp Fiction,1
+14,User_014,4,The Dark Knight,2
+14,User_014,11,Titanic,5
+14,User_014,7,Forrest Gump,5
+14,User_014,17,Frozen,2
+14,User_014,12,The Avengers,5
+14,User_014,9,Interstellar,4
+14,User_014,10,Gladiator,2
+14,User_014,14,Toy Story,5
+14,User_014,18,Harry Potter and the Philosopher's Stone,2
+14,User_014,8,The Shawshank Redemption,4
+15,User_015,9,Interstellar,4
+15,User_015,10,Gladiator,4
+15,User_015,20,The Silence of the Lambs,4
+15,User_015,2,The Matrix,4
+15,User_015,8,The Shawshank Redemption,5
+15,User_015,18,Harry Potter and the Philosopher's Stone,1
+15,User_015,4,The Dark Knight,3
+15,User_015,12,The Avengers,4
+15,User_015,15,Star Wars: A New Hope,4
+15,User_015,5,Pulp Fiction,2
+15,User_015,3,The Godfather,5
+15,User_015,13,Jurassic Park,3
+15,User_015,16,The Lion King,2
+15,User_015,19,The Lord of the Rings: The Fellowship of the Ring,4
+15,User_015,1,Inception,4
+15,User_015,14,Toy Story,5
+15,User_015,17,Frozen,2
+15,User_015,6,Fight Club,5
+15,User_015,11,Titanic,2
+15,User_015,7,Forrest Gump,1
+16,User_016,2,The Matrix,4
+16,User_016,16,The Lion King,2
+16,User_016,13,Jurassic Park,3
+16,User_016,5,Pulp Fiction,3
+16,User_016,8,The Shawshank Redemption,1
+16,User_016,10,Gladiator,5
+16,User_016,17,Frozen,5
+16,User_016,11,Titanic,4
+16,User_016,9,Interstellar,4
+16,User_016,14,Toy Story,3
+16,User_016,7,Forrest Gump,2
+16,User_016,3,The Godfather,3
+16,User_016,20,The Silence of the Lambs,5
+16,User_016,6,Fight Club,2
+16,User_016,4,The Dark Knight,4
+16,User_016,18,Harry Potter and the Philosopher's Stone,3
+16,User_016,19,The Lord of the Rings: The Fellowship of the Ring,2
+16,User_016,1,Inception,3
+16,User_016,12,The Avengers,2
+16,User_016,15,Star Wars: A New Hope,3
+17,User_017,13,Jurassic Park,4
+17,User_017,7,Forrest Gump,2
+17,User_017,1,Inception,4
+17,User_017,18,Harry Potter and the Philosopher's Stone,2
+17,User_017,4,The Dark Knight,4
+17,User_017,12,The Avengers,2
+17,User_017,15,Star Wars: A New Hope,2
+17,User_017,17,Frozen,4
+17,User_017,19,The Lord of the Rings: The Fellowship of the Ring,3
+17,User_017,8,The Shawshank Redemption,3
+17,User_017,6,Fight Club,4
+17,User_017,14,Toy Story,4
+17,User_017,9,Interstellar,2
+17,User_017,16,The Lion King,4
+17,User_017,3,The Godfather,3
+17,User_017,5,Pulp Fiction,3
+17,User_017,20,The Silence of the Lambs,3
+17,User_017,10,Gladiator,3
+17,User_017,11,Titanic,4
+17,User_017,2,The Matrix,3
+18,User_018,6,Fight Club,2
+18,User_018,11,Titanic,4
+18,User_018,17,Frozen,5
+18,User_018,19,The Lord of the Rings: The Fellowship of the Ring,4
+18,User_018,9,Interstellar,1
+18,User_018,12,The Avengers,4
+18,User_018,1,Inception,2
+18,User_018,13,Jurassic Park,5
+18,User_018,4,The Dark Knight,2
+18,User_018,8,The Shawshank Redemption,5
+18,User_018,14,Toy Story,4
+18,User_018,7,Forrest Gump,2
+18,User_018,16,The Lion King,3
+18,User_018,5,Pulp Fiction,3
+18,User_018,2,The Matrix,2
+18,User_018,18,Harry Potter and the Philosopher's Stone,1
+18,User_018,20,The Silence of the Lambs,1
+18,User_018,15,Star Wars: A New Hope,3
+18,User_018,10,Gladiator,5
+18,User_018,3,The Godfather,5
+19,User_019,3,The Godfather,2
+19,User_019,5,Pulp Fiction,3
+19,User_019,7,Forrest Gump,3
+19,User_019,6,Fight Club,3
+19,User_019,4,The Dark Knight,4
+19,User_019,15,Star Wars: A New Hope,3
+19,User_019,9,Interstellar,3
+19,User_019,11,Titanic,5
+19,User_019,1,Inception,1
+19,User_019,14,Toy Story,1
+19,User_019,2,The Matrix,2
+19,User_019,10,Gladiator,2
+19,User_019,18,Harry Potter and the Philosopher's Stone,3
+19,User_019,19,The Lord of the Rings: The Fellowship of the Ring,5
+19,User_019,13,Jurassic Park,3
+19,User_019,8,The Shawshank Redemption,2
+19,User_019,12,The Avengers,4
+19,User_019,17,Frozen,5
+19,User_019,20,The Silence of the Lambs,3
+19,User_019,16,The Lion King,5
+20,User_020,3,The Godfather,4
+20,User_020,6,Fight Club,4
+20,User_020,1,Inception,2
+20,User_020,4,The Dark Knight,2
+20,User_020,13,Jurassic Park,4
+20,User_020,20,The Silence of the Lambs,3
+20,User_020,8,The Shawshank Redemption,2
+20,User_020,10,Gladiator,1
+20,User_020,12,The Avengers,1
+20,User_020,15,Star Wars: A New Hope,3
+20,User_020,14,Toy Story,2
+20,User_020,2,The Matrix,2
+20,User_020,16,The Lion King,2
+20,User_020,19,The Lord of the Rings: The Fellowship of the Ring,2
+20,User_020,18,Harry Potter and the Philosopher's Stone,1
+20,User_020,9,Interstellar,4
+20,User_020,5,Pulp Fiction,2
+20,User_020,17,Frozen,5
+20,User_020,7,Forrest Gump,3
+20,User_020,11,Titanic,1
+21,User_021,6,Fight Club,5
+21,User_021,15,Star Wars: A New Hope,3
+21,User_021,4,The Dark Knight,5
+21,User_021,11,Titanic,2
+21,User_021,5,Pulp Fiction,2
+21,User_021,2,The Matrix,4
+21,User_021,12,The Avengers,1
+21,User_021,13,Jurassic Park,5
+21,User_021,3,The Godfather,2
+21,User_021,10,Gladiator,1
+21,User_021,16,The Lion King,2
+21,User_021,14,Toy Story,2
+21,User_021,19,The Lord of the Rings: The Fellowship of the Ring,1
+21,User_021,1,Inception,3
+21,User_021,9,Interstellar,5
+21,User_021,20,The Silence of the Lambs,4
+21,User_021,8,The Shawshank Redemption,4
+21,User_021,18,Harry Potter and the Philosopher's Stone,1
+21,User_021,7,Forrest Gump,1
+21,User_021,17,Frozen,4
+22,User_022,19,The Lord of the Rings: The Fellowship of the Ring,1
+22,User_022,20,The Silence of the Lambs,4
+22,User_022,3,The Godfather,4
+22,User_022,6,Fight Club,1
+22,User_022,13,Jurassic Park,4
+22,User_022,10,Gladiator,5
+22,User_022,9,Interstellar,5
+22,User_022,5,Pulp Fiction,4
+22,User_022,17,Frozen,1
+22,User_022,8,The Shawshank Redemption,1
+22,User_022,18,Harry Potter and the Philosopher's Stone,3
+22,User_022,2,The Matrix,1
+22,User_022,7,Forrest Gump,3
+22,User_022,12,The Avengers,1
+22,User_022,4,The Dark Knight,3
+22,User_022,15,Star Wars: A New Hope,4
+22,User_022,11,Titanic,1
+22,User_022,14,Toy Story,4
+22,User_022,16,The Lion King,4
+22,User_022,1,Inception,5
+23,User_023,3,The Godfather,2
+23,User_023,11,Titanic,5
+23,User_023,13,Jurassic Park,3
+23,User_023,18,Harry Potter and the Philosopher's Stone,1
+23,User_023,6,Fight Club,4
+23,User_023,15,Star Wars: A New Hope,4
+23,User_023,16,The Lion King,5
+23,User_023,14,Toy Story,2
+23,User_023,12,The Avengers,2
+23,User_023,9,Interstellar,5
+23,User_023,19,The Lord of the Rings: The Fellowship of the Ring,3
+23,User_023,7,Forrest Gump,5
+23,User_023,8,The Shawshank Redemption,4
+23,User_023,2,The Matrix,5
+23,User_023,1,Inception,3
+23,User_023,5,Pulp Fiction,3
+23,User_023,10,Gladiator,1
+23,User_023,20,The Silence of the Lambs,4
+23,User_023,4,The Dark Knight,3
+23,User_023,17,Frozen,4
+24,User_024,2,The Matrix,1
+24,User_024,5,Pulp Fiction,4
+24,User_024,6,Fight Club,2
+24,User_024,1,Inception,2
+24,User_024,20,The Silence of the Lambs,2
+24,User_024,14,Toy Story,3
+24,User_024,19,The Lord of the Rings: The Fellowship of the Ring,3
+24,User_024,18,Harry Potter and the Philosopher's Stone,3
+24,User_024,17,Frozen,4
+24,User_024,10,Gladiator,4
+24,User_024,8,The Shawshank Redemption,2
+24,User_024,9,Interstellar,2
+24,User_024,15,Star Wars: A New Hope,1
+24,User_024,7,Forrest Gump,5
+24,User_024,3,The Godfather,2
+24,User_024,4,The Dark Knight,1
+24,User_024,12,The Avengers,3
+24,User_024,16,The Lion King,4
+24,User_024,11,Titanic,1
+24,User_024,13,Jurassic Park,2
+25,User_025,14,Toy Story,2
+25,User_025,12,The Avengers,4
+25,User_025,9,Interstellar,5
+25,User_025,16,The Lion King,4
+25,User_025,13,Jurassic Park,2
+25,User_025,17,Frozen,1
+25,User_025,8,The Shawshank Redemption,4
+25,User_025,15,Star Wars: A New Hope,4
+25,User_025,6,Fight Club,5
+25,User_025,7,Forrest Gump,5
+25,User_025,3,The Godfather,2
+25,User_025,2,The Matrix,2
+25,User_025,19,The Lord of the Rings: The Fellowship of the Ring,4
+25,User_025,10,Gladiator,4
+25,User_025,18,Harry Potter and the Philosopher's Stone,4
+25,User_025,11,Titanic,3
+25,User_025,1,Inception,5
+25,User_025,20,The Silence of the Lambs,4
+25,User_025,4,The Dark Knight,5
+25,User_025,5,Pulp Fiction,3
+26,User_026,1,Inception,4
+26,User_026,10,Gladiator,2
+26,User_026,12,The Avengers,3
+26,User_026,6,Fight Club,4
+26,User_026,5,Pulp Fiction,5
+26,User_026,18,Harry Potter and the Philosopher's Stone,3
+26,User_026,13,Jurassic Park,1
+26,User_026,16,The Lion King,1
+26,User_026,11,Titanic,5
+26,User_026,20,The Silence of the Lambs,3
+26,User_026,4,The Dark Knight,3
+26,User_026,15,Star Wars: A New Hope,3
+26,User_026,7,Forrest Gump,2
+26,User_026,2,The Matrix,1
+26,User_026,17,Frozen,2
+26,User_026,3,The Godfather,2
+26,User_026,9,Interstellar,3
+26,User_026,8,The Shawshank Redemption,3
+26,User_026,19,The Lord of the Rings: The Fellowship of the Ring,5
+26,User_026,14,Toy Story,2
+27,User_027,15,Star Wars: A New Hope,5
+27,User_027,2,The Matrix,4
+27,User_027,17,Frozen,1
+27,User_027,4,The Dark Knight,5
+27,User_027,14,Toy Story,3
+27,User_027,6,Fight Club,2
+27,User_027,13,Jurassic Park,2
+27,User_027,8,The Shawshank Redemption,3
+27,User_027,10,Gladiator,4
+27,User_027,18,Harry Potter and the Philosopher's Stone,2
+27,User_027,12,The Avengers,1
+27,User_027,19,The Lord of the Rings: The Fellowship of the Ring,5
+27,User_027,20,The Silence of the Lambs,2
+27,User_027,1,Inception,1
+27,User_027,9,Interstellar,5
+27,User_027,5,Pulp Fiction,5
+27,User_027,3,The Godfather,1
+27,User_027,16,The Lion King,1
+27,User_027,11,Titanic,3
+27,User_027,7,Forrest Gump,1
+28,User_028,12,The Avengers,5
+28,User_028,8,The Shawshank Redemption,5
+28,User_028,18,Harry Potter and the Philosopher's Stone,3
+28,User_028,16,The Lion King,5
+28,User_028,20,The Silence of the Lambs,5
+28,User_028,3,The Godfather,2
+28,User_028,14,Toy Story,5
+28,User_028,6,Fight Club,5
+28,User_028,10,Gladiator,1
+28,User_028,11,Titanic,5
+28,User_028,7,Forrest Gump,1
+28,User_028,13,Jurassic Park,1
+28,User_028,9,Interstellar,5
+28,User_028,1,Inception,1
+28,User_028,2,The Matrix,4
+28,User_028,4,The Dark Knight,1
+28,User_028,17,Frozen,1
+28,User_028,15,Star Wars: A New Hope,4
+28,User_028,5,Pulp Fiction,5
+28,User_028,19,The Lord of the Rings: The Fellowship of the Ring,4
+29,User_029,15,Star Wars: A New Hope,2
+29,User_029,12,The Avengers,2
+29,User_029,11,Titanic,1
+29,User_029,17,Frozen,1
+29,User_029,7,Forrest Gump,2
+29,User_029,8,The Shawshank Redemption,2
+29,User_029,19,The Lord of the Rings: The Fellowship of the Ring,3
+29,User_029,9,Interstellar,4
+29,User_029,18,Harry Potter and the Philosopher's Stone,4
+29,User_029,4,The Dark Knight,1
+29,User_029,5,Pulp Fiction,2
+29,User_029,14,Toy Story,4
+29,User_029,6,Fight Club,3
+29,User_029,3,The Godfather,2
+29,User_029,10,Gladiator,5
+29,User_029,13,Jurassic Park,3
+29,User_029,1,Inception,2
+29,User_029,2,The Matrix,3
+29,User_029,16,The Lion King,3
+29,User_029,20,The Silence of the Lambs,5
+30,User_030,3,The Godfather,4
+30,User_030,10,Gladiator,5
+30,User_030,7,Forrest Gump,3
+30,User_030,1,Inception,3
+30,User_030,18,Harry Potter and the Philosopher's Stone,2
+30,User_030,4,The Dark Knight,2
+30,User_030,14,Toy Story,4
+30,User_030,11,Titanic,5
+30,User_030,8,The Shawshank Redemption,2
+30,User_030,19,The Lord of the Rings: The Fellowship of the Ring,3
+30,User_030,13,Jurassic Park,5
+30,User_030,6,Fight Club,3
+30,User_030,9,Interstellar,5
+30,User_030,12,The Avengers,3
+30,User_030,15,Star Wars: A New Hope,3
+30,User_030,5,Pulp Fiction,3
+30,User_030,17,Frozen,5
+30,User_030,20,The Silence of the Lambs,4
+30,User_030,2,The Matrix,4
+30,User_030,16,The Lion King,3
+31,User_031,8,The Shawshank Redemption,4
+31,User_031,5,Pulp Fiction,2
+31,User_031,7,Forrest Gump,4
+31,User_031,20,The Silence of the Lambs,2
+31,User_031,19,The Lord of the Rings: The Fellowship of the Ring,5
+31,User_031,16,The Lion King,5
+31,User_031,2,The Matrix,1
+31,User_031,10,Gladiator,5
+31,User_031,6,Fight Club,5
+31,User_031,14,Toy Story,2
+31,User_031,4,The Dark Knight,2
+31,User_031,3,The Godfather,5
+31,User_031,18,Harry Potter and the Philosopher's Stone,2
+31,User_031,17,Frozen,4
+31,User_031,13,Jurassic Park,2
+31,User_031,15,Star Wars: A New Hope,1
+31,User_031,1,Inception,4
+31,User_031,11,Titanic,4
+31,User_031,9,Interstellar,3
+31,User_031,12,The Avengers,5
+32,User_032,5,Pulp Fiction,1
+32,User_032,4,The Dark Knight,3
+32,User_032,15,Star Wars: A New Hope,1
+32,User_032,14,Toy Story,3
+32,User_032,1,Inception,4
+32,User_032,19,The Lord of the Rings: The Fellowship of the Ring,4
+32,User_032,13,Jurassic Park,2
+32,User_032,16,The Lion King,3
+32,User_032,2,The Matrix,1
+32,User_032,3,The Godfather,1
+32,User_032,17,Frozen,3
+32,User_032,7,Forrest Gump,2
+32,User_032,9,Interstellar,1
+32,User_032,6,Fight Club,2
+32,User_032,20,The Silence of the Lambs,5
+32,User_032,11,Titanic,1
+32,User_032,10,Gladiator,1
+32,User_032,18,Harry Potter and the Philosopher's Stone,1
+32,User_032,8,The Shawshank Redemption,3
+32,User_032,12,The Avengers,5
+33,User_033,13,Jurassic Park,3
+33,User_033,16,The Lion King,4
+33,User_033,2,The Matrix,2
+33,User_033,14,Toy Story,1
+33,User_033,20,The Silence of the Lambs,2
+33,User_033,6,Fight Club,5
+33,User_033,19,The Lord of the Rings: The Fellowship of the Ring,5
+33,User_033,9,Interstellar,4
+33,User_033,18,Harry Potter and the Philosopher's Stone,1
+33,User_033,5,Pulp Fiction,4
+33,User_033,10,Gladiator,1
+33,User_033,15,Star Wars: A New Hope,5
+33,User_033,4,The Dark Knight,4
+33,User_033,8,The Shawshank Redemption,3
+33,User_033,3,The Godfather,2
+33,User_033,1,Inception,4
+33,User_033,12,The Avengers,2
+33,User_033,17,Frozen,3
+33,User_033,11,Titanic,1
+33,User_033,7,Forrest Gump,5
+34,User_034,16,The Lion King,1
+34,User_034,3,The Godfather,3
+34,User_034,19,The Lord of the Rings: The Fellowship of the Ring,5
+34,User_034,10,Gladiator,3
+34,User_034,20,The Silence of the Lambs,2
+34,User_034,12,The Avengers,3
+34,User_034,17,Frozen,2
+34,User_034,18,Harry Potter and the Philosopher's Stone,2
+34,User_034,2,The Matrix,2
+34,User_034,6,Fight Club,5
+34,User_034,13,Jurassic Park,1
+34,User_034,8,The Shawshank Redemption,3
+34,User_034,7,Forrest Gump,3
+34,User_034,11,Titanic,5
+34,User_034,5,Pulp Fiction,2
+34,User_034,14,Toy Story,1
+34,User_034,4,The Dark Knight,3
+34,User_034,1,Inception,2
+34,User_034,9,Interstellar,5
+34,User_034,15,Star Wars: A New Hope,4
+35,User_035,2,The Matrix,1
+35,User_035,16,The Lion King,3
+35,User_035,8,The Shawshank Redemption,1
+35,User_035,3,The Godfather,4
+35,User_035,6,Fight Club,5
+35,User_035,20,The Silence of the Lambs,5
+35,User_035,15,Star Wars: A New Hope,1
+35,User_035,4,The Dark Knight,3
+35,User_035,11,Titanic,5
+35,User_035,17,Frozen,5
+35,User_035,12,The Avengers,5
+35,User_035,1,Inception,5
+35,User_035,5,Pulp Fiction,4
+35,User_035,14,Toy Story,4
+35,User_035,7,Forrest Gump,5
+35,User_035,9,Interstellar,2
+35,User_035,13,Jurassic Park,5
+35,User_035,10,Gladiator,3
+35,User_035,19,The Lord of the Rings: The Fellowship of the Ring,4
+35,User_035,18,Harry Potter and the Philosopher's Stone,4
+36,User_036,6,Fight Club,1
+36,User_036,2,The Matrix,4
+36,User_036,10,Gladiator,2
+36,User_036,15,Star Wars: A New Hope,2
+36,User_036,20,The Silence of the Lambs,1
+36,User_036,9,Interstellar,1
+36,User_036,11,Titanic,3
+36,User_036,13,Jurassic Park,2
+36,User_036,18,Harry Potter and the Philosopher's Stone,4
+36,User_036,7,Forrest Gump,5
+36,User_036,3,The Godfather,5
+36,User_036,14,Toy Story,2
+36,User_036,5,Pulp Fiction,4
+36,User_036,1,Inception,4
+36,User_036,8,The Shawshank Redemption,5
+36,User_036,4,The Dark Knight,3
+36,User_036,16,The Lion King,5
+36,User_036,17,Frozen,1
+36,User_036,19,The Lord of the Rings: The Fellowship of the Ring,3
+36,User_036,12,The Avengers,3
+37,User_037,17,Frozen,2
+37,User_037,3,The Godfather,4
+37,User_037,20,The Silence of the Lambs,2
+37,User_037,14,Toy Story,1
+37,User_037,12,The Avengers,3
+37,User_037,1,Inception,5
+37,User_037,6,Fight Club,3
+37,User_037,18,Harry Potter and the Philosopher's Stone,4
+37,User_037,5,Pulp Fiction,4
+37,User_037,9,Interstellar,3
+37,User_037,19,The Lord of the Rings: The Fellowship of the Ring,2
+37,User_037,13,Jurassic Park,2
+37,User_037,7,Forrest Gump,3
+37,User_037,8,The Shawshank Redemption,3
+37,User_037,15,Star Wars: A New Hope,2
+37,User_037,4,The Dark Knight,2
+37,User_037,16,The Lion King,2
+37,User_037,10,Gladiator,1
+37,User_037,2,The Matrix,2
+37,User_037,11,Titanic,1
+38,User_038,1,Inception,1
+38,User_038,4,The Dark Knight,2
+38,User_038,19,The Lord of the Rings: The Fellowship of the Ring,2
+38,User_038,16,The Lion King,2
+38,User_038,13,Jurassic Park,5
+38,User_038,8,The Shawshank Redemption,3
+38,User_038,20,The Silence of the Lambs,2
+38,User_038,12,The Avengers,1
+38,User_038,2,The Matrix,5
+38,User_038,11,Titanic,1
+38,User_038,10,Gladiator,5
+38,User_038,15,Star Wars: A New Hope,1
+38,User_038,7,Forrest Gump,3
+38,User_038,14,Toy Story,2
+38,User_038,3,The Godfather,3
+38,User_038,6,Fight Club,5
+38,User_038,9,Interstellar,5
+38,User_038,17,Frozen,5
+38,User_038,5,Pulp Fiction,5
+38,User_038,18,Harry Potter and the Philosopher's Stone,4
+39,User_039,9,Interstellar,1
+39,User_039,4,The Dark Knight,3
+39,User_039,7,Forrest Gump,3
+39,User_039,20,The Silence of the Lambs,1
+39,User_039,3,The Godfather,5
+39,User_039,6,Fight Club,1
+39,User_039,19,The Lord of the Rings: The Fellowship of the Ring,2
+39,User_039,5,Pulp Fiction,5
+39,User_039,12,The Avengers,3
+39,User_039,15,Star Wars: A New Hope,1
+39,User_039,14,Toy Story,5
+39,User_039,8,The Shawshank Redemption,5
+39,User_039,18,Harry Potter and the Philosopher's Stone,4
+39,User_039,11,Titanic,4
+39,User_039,16,The Lion King,3
+39,User_039,1,Inception,1
+39,User_039,2,The Matrix,2
+39,User_039,13,Jurassic Park,1
+39,User_039,17,Frozen,1
+39,User_039,10,Gladiator,3
+40,User_040,20,The Silence of the Lambs,1
+40,User_040,11,Titanic,3
+40,User_040,7,Forrest Gump,3
+40,User_040,14,Toy Story,3
+40,User_040,2,The Matrix,1
+40,User_040,12,The Avengers,5
+40,User_040,16,The Lion King,3
+40,User_040,15,Star Wars: A New Hope,3
+40,User_040,10,Gladiator,2
+40,User_040,8,The Shawshank Redemption,3
+40,User_040,17,Frozen,5
+40,User_040,19,The Lord of the Rings: The Fellowship of the Ring,5
+40,User_040,18,Harry Potter and the Philosopher's Stone,1
+40,User_040,1,Inception,3
+40,User_040,13,Jurassic Park,4
+40,User_040,4,The Dark Knight,4
+40,User_040,3,The Godfather,1
+40,User_040,6,Fight Club,1
+40,User_040,9,Interstellar,1
+40,User_040,5,Pulp Fiction,3
+41,User_041,14,Toy Story,4
+41,User_041,7,Forrest Gump,4
+41,User_041,18,Harry Potter and the Philosopher's Stone,3
+41,User_041,20,The Silence of the Lambs,4
+41,User_041,10,Gladiator,1
+41,User_041,19,The Lord of the Rings: The Fellowship of the Ring,2
+41,User_041,9,Interstellar,3
+41,User_041,3,The Godfather,1
+41,User_041,16,The Lion King,3
+41,User_041,6,Fight Club,2
+41,User_041,5,Pulp Fiction,3
+41,User_041,13,Jurassic Park,3
+41,User_041,1,Inception,1
+41,User_041,4,The Dark Knight,1
+41,User_041,2,The Matrix,2
+41,User_041,11,Titanic,3
+41,User_041,15,Star Wars: A New Hope,1
+41,User_041,12,The Avengers,2
+41,User_041,8,The Shawshank Redemption,3
+41,User_041,17,Frozen,1
+42,User_042,15,Star Wars: A New Hope,5
+42,User_042,4,The Dark Knight,4
+42,User_042,14,Toy Story,4
+42,User_042,9,Interstellar,4
+42,User_042,19,The Lord of the Rings: The Fellowship of the Ring,4
+42,User_042,2,The Matrix,3
+42,User_042,7,Forrest Gump,2
+42,User_042,16,The Lion King,5
+42,User_042,10,Gladiator,5
+42,User_042,8,The Shawshank Redemption,1
+42,User_042,6,Fight Club,1
+42,User_042,20,The Silence of the Lambs,2
+42,User_042,12,The Avengers,4
+42,User_042,1,Inception,4
+42,User_042,11,Titanic,4
+42,User_042,13,Jurassic Park,5
+42,User_042,3,The Godfather,1
+42,User_042,17,Frozen,2
+42,User_042,5,Pulp Fiction,4
+42,User_042,18,Harry Potter and the Philosopher's Stone,4
+43,User_043,20,The Silence of the Lambs,2
+43,User_043,1,Inception,5
+43,User_043,3,The Godfather,5
+43,User_043,7,Forrest Gump,1
+43,User_043,15,Star Wars: A New Hope,2
+43,User_043,12,The Avengers,1
+43,User_043,16,The Lion King,1
+43,User_043,11,Titanic,2
+43,User_043,9,Interstellar,1
+43,User_043,18,Harry Potter and the Philosopher's Stone,2
+43,User_043,10,Gladiator,4
+43,User_043,14,Toy Story,3
+43,User_043,4,The Dark Knight,1
+43,User_043,6,Fight Club,5
+43,User_043,19,The Lord of the Rings: The Fellowship of the Ring,1
+43,User_043,13,Jurassic Park,5
+43,User_043,5,Pulp Fiction,4
+43,User_043,17,Frozen,5
+43,User_043,2,The Matrix,3
+43,User_043,8,The Shawshank Redemption,2
+44,User_044,14,Toy Story,1
+44,User_044,20,The Silence of the Lambs,1
+44,User_044,11,Titanic,2
+44,User_044,1,Inception,2
+44,User_044,6,Fight Club,5
+44,User_044,2,The Matrix,5
+44,User_044,12,The Avengers,2
+44,User_044,8,The Shawshank Redemption,3
+44,User_044,3,The Godfather,5
+44,User_044,19,The Lord of the Rings: The Fellowship of the Ring,4
+44,User_044,13,Jurassic Park,3
+44,User_044,15,Star Wars: A New Hope,2
+44,User_044,18,Harry Potter and the Philosopher's Stone,4
+44,User_044,4,The Dark Knight,4
+44,User_044,16,The Lion King,3
+44,User_044,10,Gladiator,4
+44,User_044,7,Forrest Gump,1
+44,User_044,9,Interstellar,3
+44,User_044,5,Pulp Fiction,2
+44,User_044,17,Frozen,2
+45,User_045,14,Toy Story,5
+45,User_045,15,Star Wars: A New Hope,3
+45,User_045,5,Pulp Fiction,1
+45,User_045,1,Inception,3
+45,User_045,9,Interstellar,4
+45,User_045,20,The Silence of the Lambs,4
+45,User_045,8,The Shawshank Redemption,1
+45,User_045,11,Titanic,3
+45,User_045,13,Jurassic Park,1
+45,User_045,18,Harry Potter and the Philosopher's Stone,1
+45,User_045,3,The Godfather,1
+45,User_045,19,The Lord of the Rings: The Fellowship of the Ring,2
+45,User_045,6,Fight Club,1
+45,User_045,4,The Dark Knight,4
+45,User_045,17,Frozen,2
+45,User_045,16,The Lion King,1
+45,User_045,2,The Matrix,3
+45,User_045,12,The Avengers,4
+45,User_045,10,Gladiator,1
+45,User_045,7,Forrest Gump,2
+46,User_046,4,The Dark Knight,2
+46,User_046,5,Pulp Fiction,1
+46,User_046,12,The Avengers,3
+46,User_046,1,Inception,1
+46,User_046,8,The Shawshank Redemption,1
+46,User_046,7,Forrest Gump,3
+46,User_046,19,The Lord of the Rings: The Fellowship of the Ring,2
+46,User_046,2,The Matrix,1
+46,User_046,14,Toy Story,5
+46,User_046,6,Fight Club,2
+46,User_046,20,The Silence of the Lambs,2
+46,User_046,17,Frozen,4
+46,User_046,11,Titanic,4
+46,User_046,10,Gladiator,1
+46,User_046,3,The Godfather,4
+46,User_046,18,Harry Potter and the Philosopher's Stone,1
+46,User_046,9,Interstellar,3
+46,User_046,15,Star Wars: A New Hope,5
+46,User_046,16,The Lion King,5
+46,User_046,13,Jurassic Park,3
+47,User_047,4,The Dark Knight,4
+47,User_047,15,Star Wars: A New Hope,5
+47,User_047,16,The Lion King,2
+47,User_047,3,The Godfather,5
+47,User_047,8,The Shawshank Redemption,2
+47,User_047,13,Jurassic Park,3
+47,User_047,10,Gladiator,3
+47,User_047,20,The Silence of the Lambs,2
+47,User_047,18,Harry Potter and the Philosopher's Stone,4
+47,User_047,14,Toy Story,5
+47,User_047,6,Fight Club,5
+47,User_047,2,The Matrix,1
+47,User_047,19,The Lord of the Rings: The Fellowship of the Ring,2
+47,User_047,7,Forrest Gump,3
+47,User_047,5,Pulp Fiction,4
+47,User_047,1,Inception,2
+47,User_047,9,Interstellar,1
+47,User_047,17,Frozen,2
+47,User_047,12,The Avengers,5
+47,User_047,11,Titanic,5
+48,User_048,11,Titanic,2
+48,User_048,20,The Silence of the Lambs,1
+48,User_048,9,Interstellar,1
+48,User_048,6,Fight Club,5
+48,User_048,7,Forrest Gump,1
+48,User_048,13,Jurassic Park,1
+48,User_048,8,The Shawshank Redemption,2
+48,User_048,15,Star Wars: A New Hope,2
+48,User_048,4,The Dark Knight,4
+48,User_048,3,The Godfather,4
+48,User_048,14,Toy Story,2
+48,User_048,10,Gladiator,4
+48,User_048,1,Inception,5
+48,User_048,18,Harry Potter and the Philosopher's Stone,2
+48,User_048,19,The Lord of the Rings: The Fellowship of the Ring,4
+48,User_048,2,The Matrix,4
+48,User_048,17,Frozen,3
+48,User_048,12,The Avengers,1
+48,User_048,16,The Lion King,1
+48,User_048,5,Pulp Fiction,3
+49,User_049,19,The Lord of the Rings: The Fellowship of the Ring,4
+49,User_049,13,Jurassic Park,1
+49,User_049,11,Titanic,5
+49,User_049,14,Toy Story,1
+49,User_049,20,The Silence of the Lambs,5
+49,User_049,15,Star Wars: A New Hope,3
+49,User_049,6,Fight Club,4
+49,User_049,16,The Lion King,4
+49,User_049,12,The Avengers,4
+49,User_049,2,The Matrix,5
+49,User_049,5,Pulp Fiction,2
+49,User_049,9,Interstellar,3
+49,User_049,7,Forrest Gump,2
+49,User_049,1,Inception,5
+49,User_049,18,Harry Potter and the Philosopher's Stone,1
+49,User_049,8,The Shawshank Redemption,1
+49,User_049,17,Frozen,3
+49,User_049,4,The Dark Knight,3
+49,User_049,3,The Godfather,5
+49,User_049,10,Gladiator,4
+50,User_050,16,The Lion King,2
+50,User_050,14,Toy Story,4
+50,User_050,13,Jurassic Park,4
+50,User_050,4,The Dark Knight,3
+50,User_050,6,Fight Club,4
+50,User_050,3,The Godfather,5
+50,User_050,8,The Shawshank Redemption,3
+50,User_050,9,Interstellar,5
+50,User_050,2,The Matrix,2
+50,User_050,1,Inception,5
+50,User_050,18,Harry Potter and the Philosopher's Stone,4
+50,User_050,20,The Silence of the Lambs,3
+50,User_050,11,Titanic,3
+50,User_050,5,Pulp Fiction,1
+50,User_050,19,The Lord of the Rings: The Fellowship of the Ring,5
+50,User_050,7,Forrest Gump,1
+50,User_050,10,Gladiator,4
+50,User_050,12,The Avengers,5
+50,User_050,15,Star Wars: A New Hope,2
+50,User_050,17,Frozen,2
+51,User_051,13,Jurassic Park,2
+51,User_051,17,Frozen,2
+51,User_051,3,The Godfather,4
+51,User_051,5,Pulp Fiction,5
+51,User_051,16,The Lion King,3
+51,User_051,20,The Silence of the Lambs,3
+51,User_051,12,The Avengers,5
+51,User_051,9,Interstellar,5
+51,User_051,1,Inception,5
+51,User_051,19,The Lord of the Rings: The Fellowship of the Ring,1
+51,User_051,4,The Dark Knight,1
+51,User_051,2,The Matrix,3
+51,User_051,6,Fight Club,4
+51,User_051,10,Gladiator,4
+51,User_051,14,Toy Story,2
+51,User_051,15,Star Wars: A New Hope,3
+51,User_051,18,Harry Potter and the Philosopher's Stone,3
+51,User_051,7,Forrest Gump,4
+51,User_051,11,Titanic,5
+51,User_051,8,The Shawshank Redemption,5
+52,User_052,5,Pulp Fiction,5
+52,User_052,6,Fight Club,4
+52,User_052,9,Interstellar,2
+52,User_052,20,The Silence of the Lambs,1
+52,User_052,4,The Dark Knight,2
+52,User_052,12,The Avengers,1
+52,User_052,15,Star Wars: A New Hope,4
+52,User_052,8,The Shawshank Redemption,5
+52,User_052,16,The Lion King,4
+52,User_052,3,The Godfather,2
+52,User_052,1,Inception,2
+52,User_052,17,Frozen,2
+52,User_052,18,Harry Potter and the Philosopher's Stone,4
+52,User_052,2,The Matrix,1
+52,User_052,14,Toy Story,4
+52,User_052,13,Jurassic Park,3
+52,User_052,11,Titanic,3
+52,User_052,7,Forrest Gump,2
+52,User_052,10,Gladiator,3
+52,User_052,19,The Lord of the Rings: The Fellowship of the Ring,3
+53,User_053,7,Forrest Gump,5
+53,User_053,13,Jurassic Park,2
+53,User_053,5,Pulp Fiction,1
+53,User_053,1,Inception,1
+53,User_053,19,The Lord of the Rings: The Fellowship of the Ring,3
+53,User_053,14,Toy Story,3
+53,User_053,8,The Shawshank Redemption,4
+53,User_053,11,Titanic,4
+53,User_053,2,The Matrix,2
+53,User_053,17,Frozen,4
+53,User_053,9,Interstellar,5
+53,User_053,15,Star Wars: A New Hope,4
+53,User_053,3,The Godfather,4
+53,User_053,4,The Dark Knight,4
+53,User_053,10,Gladiator,1
+53,User_053,6,Fight Club,5
+53,User_053,20,The Silence of the Lambs,2
+53,User_053,18,Harry Potter and the Philosopher's Stone,2
+53,User_053,16,The Lion King,4
+53,User_053,12,The Avengers,4
+54,User_054,8,The Shawshank Redemption,2
+54,User_054,13,Jurassic Park,2
+54,User_054,6,Fight Club,5
+54,User_054,19,The Lord of the Rings: The Fellowship of the Ring,4
+54,User_054,9,Interstellar,1
+54,User_054,20,The Silence of the Lambs,2
+54,User_054,5,Pulp Fiction,2
+54,User_054,7,Forrest Gump,5
+54,User_054,15,Star Wars: A New Hope,5
+54,User_054,18,Harry Potter and the Philosopher's Stone,3
+54,User_054,4,The Dark Knight,5
+54,User_054,1,Inception,4
+54,User_054,16,The Lion King,3
+54,User_054,12,The Avengers,5
+54,User_054,17,Frozen,4
+54,User_054,2,The Matrix,2
+54,User_054,14,Toy Story,3
+54,User_054,11,Titanic,2
+54,User_054,3,The Godfather,1
+54,User_054,10,Gladiator,5
+55,User_055,20,The Silence of the Lambs,2
+55,User_055,12,The Avengers,2
+55,User_055,7,Forrest Gump,5
+55,User_055,11,Titanic,4
+55,User_055,15,Star Wars: A New Hope,1
+55,User_055,1,Inception,1
+55,User_055,8,The Shawshank Redemption,3
+55,User_055,16,The Lion King,5
+55,User_055,10,Gladiator,2
+55,User_055,3,The Godfather,2
+55,User_055,18,Harry Potter and the Philosopher's Stone,5
+55,User_055,6,Fight Club,1
+55,User_055,4,The Dark Knight,4
+55,User_055,17,Frozen,4
+55,User_055,19,The Lord of the Rings: The Fellowship of the Ring,5
+55,User_055,9,Interstellar,5
+55,User_055,5,Pulp Fiction,5
+55,User_055,2,The Matrix,4
+55,User_055,14,Toy Story,2
+55,User_055,13,Jurassic Park,3
+56,User_056,10,Gladiator,3
+56,User_056,8,The Shawshank Redemption,1
+56,User_056,9,Interstellar,3
+56,User_056,1,Inception,3
+56,User_056,11,Titanic,2
+56,User_056,18,Harry Potter and the Philosopher's Stone,4
+56,User_056,12,The Avengers,5
+56,User_056,14,Toy Story,3
+56,User_056,6,Fight Club,2
+56,User_056,13,Jurassic Park,3
+56,User_056,15,Star Wars: A New Hope,4
+56,User_056,2,The Matrix,5
+56,User_056,19,The Lord of the Rings: The Fellowship of the Ring,5
+56,User_056,3,The Godfather,3
+56,User_056,16,The Lion King,5
+56,User_056,17,Frozen,4
+56,User_056,5,Pulp Fiction,3
+56,User_056,20,The Silence of the Lambs,4
+56,User_056,4,The Dark Knight,3
+56,User_056,7,Forrest Gump,1
+57,User_057,9,Interstellar,1
+57,User_057,19,The Lord of the Rings: The Fellowship of the Ring,4
+57,User_057,2,The Matrix,4
+57,User_057,6,Fight Club,3
+57,User_057,8,The Shawshank Redemption,1
+57,User_057,10,Gladiator,1
+57,User_057,13,Jurassic Park,5
+57,User_057,18,Harry Potter and the Philosopher's Stone,1
+57,User_057,12,The Avengers,4
+57,User_057,11,Titanic,5
+57,User_057,17,Frozen,5
+57,User_057,1,Inception,5
+57,User_057,15,Star Wars: A New Hope,4
+57,User_057,16,The Lion King,4
+57,User_057,14,Toy Story,5
+57,User_057,4,The Dark Knight,2
+57,User_057,7,Forrest Gump,1
+57,User_057,5,Pulp Fiction,3
+57,User_057,3,The Godfather,5
+57,User_057,20,The Silence of the Lambs,2
+58,User_058,19,The Lord of the Rings: The Fellowship of the Ring,4
+58,User_058,3,The Godfather,3
+58,User_058,18,Harry Potter and the Philosopher's Stone,2
+58,User_058,17,Frozen,4
+58,User_058,8,The Shawshank Redemption,5
+58,User_058,6,Fight Club,2
+58,User_058,7,Forrest Gump,1
+58,User_058,10,Gladiator,5
+58,User_058,1,Inception,3
+58,User_058,4,The Dark Knight,3
+58,User_058,20,The Silence of the Lambs,2
+58,User_058,11,Titanic,4
+58,User_058,2,The Matrix,2
+58,User_058,12,The Avengers,3
+58,User_058,14,Toy Story,1
+58,User_058,15,Star Wars: A New Hope,4
+58,User_058,16,The Lion King,1
+58,User_058,9,Interstellar,3
+58,User_058,13,Jurassic Park,4
+58,User_058,5,Pulp Fiction,4
+59,User_059,2,The Matrix,3
+59,User_059,12,The Avengers,4
+59,User_059,17,Frozen,2
+59,User_059,4,The Dark Knight,4
+59,User_059,7,Forrest Gump,1
+59,User_059,6,Fight Club,5
+59,User_059,1,Inception,2
+59,User_059,20,The Silence of the Lambs,3
+59,User_059,5,Pulp Fiction,3
+59,User_059,8,The Shawshank Redemption,3
+59,User_059,14,Toy Story,5
+59,User_059,3,The Godfather,2
+59,User_059,15,Star Wars: A New Hope,4
+59,User_059,13,Jurassic Park,5
+59,User_059,9,Interstellar,2
+59,User_059,18,Harry Potter and the Philosopher's Stone,4
+59,User_059,11,Titanic,4
+59,User_059,16,The Lion King,3
+59,User_059,10,Gladiator,1
+59,User_059,19,The Lord of the Rings: The Fellowship of the Ring,2
+60,User_060,7,Forrest Gump,4
+60,User_060,18,Harry Potter and the Philosopher's Stone,3
+60,User_060,6,Fight Club,1
+60,User_060,3,The Godfather,2
+60,User_060,12,The Avengers,5
+60,User_060,11,Titanic,3
+60,User_060,13,Jurassic Park,1
+60,User_060,1,Inception,5
+60,User_060,8,The Shawshank Redemption,2
+60,User_060,14,Toy Story,4
+60,User_060,10,Gladiator,4
+60,User_060,5,Pulp Fiction,4
+60,User_060,16,The Lion King,5
+60,User_060,9,Interstellar,2
+60,User_060,19,The Lord of the Rings: The Fellowship of the Ring,3
+60,User_060,17,Frozen,3
+60,User_060,2,The Matrix,1
+60,User_060,4,The Dark Knight,5
+60,User_060,15,Star Wars: A New Hope,1
+60,User_060,20,The Silence of the Lambs,1
+61,User_061,10,Gladiator,4
+61,User_061,5,Pulp Fiction,3
+61,User_061,9,Interstellar,2
+61,User_061,12,The Avengers,5
+61,User_061,19,The Lord of the Rings: The Fellowship of the Ring,1
+61,User_061,16,The Lion King,5
+61,User_061,13,Jurassic Park,5
+61,User_061,15,Star Wars: A New Hope,2
+61,User_061,1,Inception,4
+61,User_061,18,Harry Potter and the Philosopher's Stone,4
+61,User_061,11,Titanic,4
+61,User_061,20,The Silence of the Lambs,5
+61,User_061,14,Toy Story,5
+61,User_061,8,The Shawshank Redemption,2
+61,User_061,2,The Matrix,5
+61,User_061,17,Frozen,2
+61,User_061,4,The Dark Knight,3
+61,User_061,6,Fight Club,3
+61,User_061,3,The Godfather,5
+61,User_061,7,Forrest Gump,4
+62,User_062,15,Star Wars: A New Hope,1
+62,User_062,3,The Godfather,3
+62,User_062,12,The Avengers,3
+62,User_062,10,Gladiator,3
+62,User_062,8,The Shawshank Redemption,2
+62,User_062,18,Harry Potter and the Philosopher's Stone,1
+62,User_062,1,Inception,4
+62,User_062,7,Forrest Gump,3
+62,User_062,19,The Lord of the Rings: The Fellowship of the Ring,4
+62,User_062,6,Fight Club,4
+62,User_062,17,Frozen,3
+62,User_062,14,Toy Story,2
+62,User_062,9,Interstellar,3
+62,User_062,11,Titanic,2
+62,User_062,5,Pulp Fiction,2
+62,User_062,13,Jurassic Park,3
+62,User_062,4,The Dark Knight,2
+62,User_062,16,The Lion King,1
+62,User_062,20,The Silence of the Lambs,3
+62,User_062,2,The Matrix,4
+63,User_063,20,The Silence of the Lambs,1
+63,User_063,7,Forrest Gump,1
+63,User_063,6,Fight Club,3
+63,User_063,4,The Dark Knight,2
+63,User_063,8,The Shawshank Redemption,5
+63,User_063,5,Pulp Fiction,4
+63,User_063,3,The Godfather,5
+63,User_063,2,The Matrix,3
+63,User_063,12,The Avengers,5
+63,User_063,11,Titanic,5
+63,User_063,15,Star Wars: A New Hope,4
+63,User_063,14,Toy Story,3
+63,User_063,13,Jurassic Park,2
+63,User_063,1,Inception,2
+63,User_063,19,The Lord of the Rings: The Fellowship of the Ring,4
+63,User_063,9,Interstellar,1
+63,User_063,10,Gladiator,1
+63,User_063,17,Frozen,1
+63,User_063,16,The Lion King,5
+63,User_063,18,Harry Potter and the Philosopher's Stone,2
+64,User_064,7,Forrest Gump,5
+64,User_064,20,The Silence of the Lambs,2
+64,User_064,11,Titanic,4
+64,User_064,3,The Godfather,1
+64,User_064,16,The Lion King,4
+64,User_064,10,Gladiator,1
+64,User_064,4,The Dark Knight,1
+64,User_064,5,Pulp Fiction,1
+64,User_064,14,Toy Story,1
+64,User_064,15,Star Wars: A New Hope,4
+64,User_064,19,The Lord of the Rings: The Fellowship of the Ring,2
+64,User_064,6,Fight Club,1
+64,User_064,12,The Avengers,4
+64,User_064,17,Frozen,2
+64,User_064,13,Jurassic Park,4
+64,User_064,2,The Matrix,1
+64,User_064,9,Interstellar,1
+64,User_064,1,Inception,4
+64,User_064,8,The Shawshank Redemption,2
+64,User_064,18,Harry Potter and the Philosopher's Stone,4
+65,User_065,15,Star Wars: A New Hope,4
+65,User_065,1,Inception,2
+65,User_065,4,The Dark Knight,1
+65,User_065,14,Toy Story,2
+65,User_065,9,Interstellar,4
+65,User_065,16,The Lion King,5
+65,User_065,8,The Shawshank Redemption,2
+65,User_065,7,Forrest Gump,4
+65,User_065,19,The Lord of the Rings: The Fellowship of the Ring,5
+65,User_065,12,The Avengers,2
+65,User_065,20,The Silence of the Lambs,1
+65,User_065,10,Gladiator,4
+65,User_065,18,Harry Potter and the Philosopher's Stone,3
+65,User_065,17,Frozen,3
+65,User_065,2,The Matrix,5
+65,User_065,11,Titanic,3
+65,User_065,6,Fight Club,3
+65,User_065,5,Pulp Fiction,2
+65,User_065,3,The Godfather,5
+65,User_065,13,Jurassic Park,1
+66,User_066,16,The Lion King,4
+66,User_066,19,The Lord of the Rings: The Fellowship of the Ring,2
+66,User_066,10,Gladiator,1
+66,User_066,15,Star Wars: A New Hope,2
+66,User_066,11,Titanic,2
+66,User_066,13,Jurassic Park,5
+66,User_066,5,Pulp Fiction,1
+66,User_066,8,The Shawshank Redemption,4
+66,User_066,1,Inception,5
+66,User_066,12,The Avengers,2
+66,User_066,2,The Matrix,1
+66,User_066,18,Harry Potter and the Philosopher's Stone,1
+66,User_066,6,Fight Club,2
+66,User_066,7,Forrest Gump,3
+66,User_066,14,Toy Story,1
+66,User_066,4,The Dark Knight,2
+66,User_066,3,The Godfather,5
+66,User_066,20,The Silence of the Lambs,3
+66,User_066,17,Frozen,5
+66,User_066,9,Interstellar,2
+67,User_067,3,The Godfather,5
+67,User_067,16,The Lion King,2
+67,User_067,8,The Shawshank Redemption,5
+67,User_067,6,Fight Club,3
+67,User_067,2,The Matrix,2
+67,User_067,9,Interstellar,1
+67,User_067,11,Titanic,4
+67,User_067,1,Inception,1
+67,User_067,20,The Silence of the Lambs,4
+67,User_067,13,Jurassic Park,1
+67,User_067,10,Gladiator,1
+67,User_067,5,Pulp Fiction,2
+67,User_067,14,Toy Story,3
+67,User_067,4,The Dark Knight,1
+67,User_067,17,Frozen,2
+67,User_067,7,Forrest Gump,4
+67,User_067,19,The Lord of the Rings: The Fellowship of the Ring,5
+67,User_067,18,Harry Potter and the Philosopher's Stone,4
+67,User_067,15,Star Wars: A New Hope,1
+67,User_067,12,The Avengers,1
+68,User_068,9,Interstellar,3
+68,User_068,2,The Matrix,5
+68,User_068,7,Forrest Gump,5
+68,User_068,19,The Lord of the Rings: The Fellowship of the Ring,2
+68,User_068,20,The Silence of the Lambs,5
+68,User_068,15,Star Wars: A New Hope,4
+68,User_068,4,The Dark Knight,2
+68,User_068,16,The Lion King,5
+68,User_068,11,Titanic,2
+68,User_068,8,The Shawshank Redemption,1
+68,User_068,13,Jurassic Park,5
+68,User_068,18,Harry Potter and the Philosopher's Stone,4
+68,User_068,10,Gladiator,5
+68,User_068,14,Toy Story,4
+68,User_068,5,Pulp Fiction,2
+68,User_068,6,Fight Club,5
+68,User_068,1,Inception,1
+68,User_068,3,The Godfather,5
+68,User_068,12,The Avengers,2
+68,User_068,17,Frozen,1
+69,User_069,18,Harry Potter and the Philosopher's Stone,4
+69,User_069,15,Star Wars: A New Hope,1
+69,User_069,17,Frozen,5
+69,User_069,10,Gladiator,4
+69,User_069,19,The Lord of the Rings: The Fellowship of the Ring,4
+69,User_069,1,Inception,4
+69,User_069,2,The Matrix,3
+69,User_069,3,The Godfather,1
+69,User_069,9,Interstellar,3
+69,User_069,13,Jurassic Park,4
+69,User_069,11,Titanic,1
+69,User_069,7,Forrest Gump,1
+69,User_069,8,The Shawshank Redemption,5
+69,User_069,4,The Dark Knight,2
+69,User_069,20,The Silence of the Lambs,5
+69,User_069,6,Fight Club,3
+69,User_069,14,Toy Story,3
+69,User_069,5,Pulp Fiction,1
+69,User_069,16,The Lion King,3
+69,User_069,12,The Avengers,3
+70,User_070,8,The Shawshank Redemption,4
+70,User_070,18,Harry Potter and the Philosopher's Stone,1
+70,User_070,5,Pulp Fiction,1
+70,User_070,14,Toy Story,2
+70,User_070,10,Gladiator,5
+70,User_070,19,The Lord of the Rings: The Fellowship of the Ring,2
+70,User_070,2,The Matrix,4
+70,User_070,7,Forrest Gump,5
+70,User_070,1,Inception,5
+70,User_070,4,The Dark Knight,4
+70,User_070,9,Interstellar,2
+70,User_070,11,Titanic,4
+70,User_070,17,Frozen,4
+70,User_070,20,The Silence of the Lambs,1
+70,User_070,3,The Godfather,1
+70,User_070,6,Fight Club,2
+70,User_070,12,The Avengers,1
+70,User_070,15,Star Wars: A New Hope,1
+70,User_070,16,The Lion King,2
+70,User_070,13,Jurassic Park,3
+71,User_071,17,Frozen,4
+71,User_071,14,Toy Story,1
+71,User_071,2,The Matrix,2
+71,User_071,3,The Godfather,3
+71,User_071,19,The Lord of the Rings: The Fellowship of the Ring,4
+71,User_071,11,Titanic,5
+71,User_071,5,Pulp Fiction,2
+71,User_071,8,The Shawshank Redemption,3
+71,User_071,7,Forrest Gump,5
+71,User_071,4,The Dark Knight,2
+71,User_071,20,The Silence of the Lambs,3
+71,User_071,13,Jurassic Park,3
+71,User_071,12,The Avengers,2
+71,User_071,1,Inception,4
+71,User_071,10,Gladiator,4
+71,User_071,16,The Lion King,4
+71,User_071,9,Interstellar,4
+71,User_071,18,Harry Potter and the Philosopher's Stone,1
+71,User_071,6,Fight Club,3
+71,User_071,15,Star Wars: A New Hope,4
+72,User_072,8,The Shawshank Redemption,5
+72,User_072,13,Jurassic Park,2
+72,User_072,19,The Lord of the Rings: The Fellowship of the Ring,2
+72,User_072,9,Interstellar,2
+72,User_072,12,The Avengers,5
+72,User_072,11,Titanic,5
+72,User_072,5,Pulp Fiction,3
+72,User_072,4,The Dark Knight,2
+72,User_072,6,Fight Club,2
+72,User_072,14,Toy Story,2
+72,User_072,3,The Godfather,5
+72,User_072,15,Star Wars: A New Hope,4
+72,User_072,20,The Silence of the Lambs,1
+72,User_072,7,Forrest Gump,1
+72,User_072,16,The Lion King,3
+72,User_072,2,The Matrix,2
+72,User_072,10,Gladiator,4
+72,User_072,1,Inception,3
+72,User_072,18,Harry Potter and the Philosopher's Stone,4
+72,User_072,17,Frozen,2
+73,User_073,1,Inception,4
+73,User_073,10,Gladiator,1
+73,User_073,20,The Silence of the Lambs,1
+73,User_073,14,Toy Story,1
+73,User_073,11,Titanic,5
+73,User_073,15,Star Wars: A New Hope,3
+73,User_073,17,Frozen,3
+73,User_073,2,The Matrix,5
+73,User_073,6,Fight Club,2
+73,User_073,19,The Lord of the Rings: The Fellowship of the Ring,4
+73,User_073,8,The Shawshank Redemption,1
+73,User_073,13,Jurassic Park,3
+73,User_073,7,Forrest Gump,2
+73,User_073,3,The Godfather,2
+73,User_073,12,The Avengers,4
+73,User_073,4,The Dark Knight,5
+73,User_073,18,Harry Potter and the Philosopher's Stone,2
+73,User_073,5,Pulp Fiction,2
+73,User_073,16,The Lion King,4
+73,User_073,9,Interstellar,2
+74,User_074,10,Gladiator,4
+74,User_074,18,Harry Potter and the Philosopher's Stone,5
+74,User_074,15,Star Wars: A New Hope,1
+74,User_074,7,Forrest Gump,3
+74,User_074,1,Inception,3
+74,User_074,14,Toy Story,4
+74,User_074,5,Pulp Fiction,1
+74,User_074,11,Titanic,1
+74,User_074,4,The Dark Knight,5
+74,User_074,3,The Godfather,1
+74,User_074,19,The Lord of the Rings: The Fellowship of the Ring,2
+74,User_074,16,The Lion King,4
+74,User_074,17,Frozen,1
+74,User_074,9,Interstellar,3
+74,User_074,2,The Matrix,1
+74,User_074,13,Jurassic Park,2
+74,User_074,12,The Avengers,4
+74,User_074,20,The Silence of the Lambs,2
+74,User_074,6,Fight Club,5
+74,User_074,8,The Shawshank Redemption,5
+75,User_075,19,The Lord of the Rings: The Fellowship of the Ring,2
+75,User_075,6,Fight Club,3
+75,User_075,14,Toy Story,2
+75,User_075,16,The Lion King,5
+75,User_075,2,The Matrix,4
+75,User_075,4,The Dark Knight,5
+75,User_075,3,The Godfather,1
+75,User_075,12,The Avengers,1
+75,User_075,13,Jurassic Park,3
+75,User_075,10,Gladiator,2
+75,User_075,15,Star Wars: A New Hope,3
+75,User_075,8,The Shawshank Redemption,5
+75,User_075,5,Pulp Fiction,4
+75,User_075,20,The Silence of the Lambs,5
+75,User_075,17,Frozen,2
+75,User_075,1,Inception,5
+75,User_075,11,Titanic,2
+75,User_075,18,Harry Potter and the Philosopher's Stone,3
+75,User_075,7,Forrest Gump,3
+75,User_075,9,Interstellar,2
+76,User_076,19,The Lord of the Rings: The Fellowship of the Ring,1
+76,User_076,3,The Godfather,1
+76,User_076,14,Toy Story,2
+76,User_076,15,Star Wars: A New Hope,2
+76,User_076,11,Titanic,3
+76,User_076,4,The Dark Knight,5
+76,User_076,5,Pulp Fiction,4
+76,User_076,2,The Matrix,1
+76,User_076,7,Forrest Gump,1
+76,User_076,18,Harry Potter and the Philosopher's Stone,1
+76,User_076,12,The Avengers,1
+76,User_076,16,The Lion King,2
+76,User_076,8,The Shawshank Redemption,2
+76,User_076,1,Inception,3
+76,User_076,17,Frozen,3
+76,User_076,6,Fight Club,5
+76,User_076,10,Gladiator,2
+76,User_076,9,Interstellar,2
+76,User_076,13,Jurassic Park,1
+76,User_076,20,The Silence of the Lambs,1
+77,User_077,11,Titanic,2
+77,User_077,1,Inception,4
+77,User_077,18,Harry Potter and the Philosopher's Stone,5
+77,User_077,9,Interstellar,4
+77,User_077,14,Toy Story,3
+77,User_077,8,The Shawshank Redemption,4
+77,User_077,15,Star Wars: A New Hope,2
+77,User_077,13,Jurassic Park,5
+77,User_077,3,The Godfather,5
+77,User_077,10,Gladiator,5
+77,User_077,5,Pulp Fiction,4
+77,User_077,4,The Dark Knight,5
+77,User_077,17,Frozen,3
+77,User_077,19,The Lord of the Rings: The Fellowship of the Ring,2
+77,User_077,20,The Silence of the Lambs,1
+77,User_077,6,Fight Club,5
+77,User_077,16,The Lion King,5
+77,User_077,7,Forrest Gump,5
+77,User_077,2,The Matrix,3
+77,User_077,12,The Avengers,5
+78,User_078,15,Star Wars: A New Hope,4
+78,User_078,18,Harry Potter and the Philosopher's Stone,3
+78,User_078,16,The Lion King,4
+78,User_078,10,Gladiator,3
+78,User_078,3,The Godfather,2
+78,User_078,6,Fight Club,2
+78,User_078,4,The Dark Knight,2
+78,User_078,11,Titanic,1
+78,User_078,2,The Matrix,1
+78,User_078,8,The Shawshank Redemption,5
+78,User_078,17,Frozen,3
+78,User_078,1,Inception,5
+78,User_078,13,Jurassic Park,3
+78,User_078,20,The Silence of the Lambs,5
+78,User_078,9,Interstellar,5
+78,User_078,14,Toy Story,1
+78,User_078,5,Pulp Fiction,1
+78,User_078,7,Forrest Gump,2
+78,User_078,12,The Avengers,1
+78,User_078,19,The Lord of the Rings: The Fellowship of the Ring,4
+79,User_079,11,Titanic,3
+79,User_079,14,Toy Story,1
+79,User_079,19,The Lord of the Rings: The Fellowship of the Ring,3
+79,User_079,9,Interstellar,4
+79,User_079,10,Gladiator,4
+79,User_079,7,Forrest Gump,1
+79,User_079,17,Frozen,3
+79,User_079,15,Star Wars: A New Hope,3
+79,User_079,5,Pulp Fiction,3
+79,User_079,12,The Avengers,2
+79,User_079,16,The Lion King,1
+79,User_079,13,Jurassic Park,3
+79,User_079,1,Inception,2
+79,User_079,3,The Godfather,4
+79,User_079,20,The Silence of the Lambs,2
+79,User_079,2,The Matrix,3
+79,User_079,18,Harry Potter and the Philosopher's Stone,4
+79,User_079,6,Fight Club,3
+79,User_079,8,The Shawshank Redemption,3
+79,User_079,4,The Dark Knight,5
+80,User_080,19,The Lord of the Rings: The Fellowship of the Ring,2
+80,User_080,16,The Lion King,3
+80,User_080,15,Star Wars: A New Hope,3
+80,User_080,11,Titanic,3
+80,User_080,1,Inception,1
+80,User_080,20,The Silence of the Lambs,2
+80,User_080,9,Interstellar,3
+80,User_080,17,Frozen,5
+80,User_080,5,Pulp Fiction,2
+80,User_080,6,Fight Club,2
+80,User_080,7,Forrest Gump,5
+80,User_080,3,The Godfather,3
+80,User_080,13,Jurassic Park,2
+80,User_080,4,The Dark Knight,3
+80,User_080,18,Harry Potter and the Philosopher's Stone,2
+80,User_080,14,Toy Story,5
+80,User_080,8,The Shawshank Redemption,1
+80,User_080,2,The Matrix,3
+80,User_080,10,Gladiator,3
+80,User_080,12,The Avengers,1
+81,User_081,10,Gladiator,5
+81,User_081,7,Forrest Gump,2
+81,User_081,16,The Lion King,5
+81,User_081,3,The Godfather,1
+81,User_081,15,Star Wars: A New Hope,5
+81,User_081,20,The Silence of the Lambs,5
+81,User_081,9,Interstellar,5
+81,User_081,17,Frozen,2
+81,User_081,8,The Shawshank Redemption,2
+81,User_081,19,The Lord of the Rings: The Fellowship of the Ring,2
+81,User_081,18,Harry Potter and the Philosopher's Stone,4
+81,User_081,6,Fight Club,1
+81,User_081,14,Toy Story,3
+81,User_081,2,The Matrix,2
+81,User_081,5,Pulp Fiction,2
+81,User_081,1,Inception,1
+81,User_081,11,Titanic,3
+81,User_081,4,The Dark Knight,4
+81,User_081,13,Jurassic Park,4
+81,User_081,12,The Avengers,3
+82,User_082,11,Titanic,3
+82,User_082,7,Forrest Gump,1
+82,User_082,8,The Shawshank Redemption,1
+82,User_082,19,The Lord of the Rings: The Fellowship of the Ring,5
+82,User_082,10,Gladiator,1
+82,User_082,2,The Matrix,2
+82,User_082,3,The Godfather,4
+82,User_082,20,The Silence of the Lambs,2
+82,User_082,16,The Lion King,4
+82,User_082,4,The Dark Knight,2
+82,User_082,5,Pulp Fiction,4
+82,User_082,9,Interstellar,1
+82,User_082,15,Star Wars: A New Hope,2
+82,User_082,18,Harry Potter and the Philosopher's Stone,5
+82,User_082,13,Jurassic Park,5
+82,User_082,6,Fight Club,5
+82,User_082,1,Inception,2
+82,User_082,14,Toy Story,4
+82,User_082,12,The Avengers,1
+82,User_082,17,Frozen,3
+83,User_083,14,Toy Story,5
+83,User_083,1,Inception,2
+83,User_083,20,The Silence of the Lambs,1
+83,User_083,8,The Shawshank Redemption,5
+83,User_083,12,The Avengers,1
+83,User_083,11,Titanic,2
+83,User_083,18,Harry Potter and the Philosopher's Stone,5
+83,User_083,15,Star Wars: A New Hope,2
+83,User_083,2,The Matrix,5
+83,User_083,17,Frozen,5
+83,User_083,10,Gladiator,4
+83,User_083,6,Fight Club,5
+83,User_083,9,Interstellar,2
+83,User_083,5,Pulp Fiction,2
+83,User_083,16,The Lion King,3
+83,User_083,19,The Lord of the Rings: The Fellowship of the Ring,2
+83,User_083,7,Forrest Gump,3
+83,User_083,3,The Godfather,4
+83,User_083,4,The Dark Knight,1
+83,User_083,13,Jurassic Park,1
+84,User_084,19,The Lord of the Rings: The Fellowship of the Ring,5
+84,User_084,5,Pulp Fiction,1
+84,User_084,9,Interstellar,4
+84,User_084,1,Inception,1
+84,User_084,16,The Lion King,3
+84,User_084,10,Gladiator,4
+84,User_084,18,Harry Potter and the Philosopher's Stone,4
+84,User_084,6,Fight Club,1
+84,User_084,2,The Matrix,5
+84,User_084,13,Jurassic Park,1
+84,User_084,17,Frozen,1
+84,User_084,4,The Dark Knight,2
+84,User_084,14,Toy Story,4
+84,User_084,7,Forrest Gump,1
+84,User_084,8,The Shawshank Redemption,3
+84,User_084,15,Star Wars: A New Hope,2
+84,User_084,3,The Godfather,5
+84,User_084,12,The Avengers,4
+84,User_084,20,The Silence of the Lambs,2
+84,User_084,11,Titanic,2
+85,User_085,5,Pulp Fiction,4
+85,User_085,15,Star Wars: A New Hope,4
+85,User_085,9,Interstellar,4
+85,User_085,6,Fight Club,3
+85,User_085,19,The Lord of the Rings: The Fellowship of the Ring,3
+85,User_085,20,The Silence of the Lambs,5
+85,User_085,8,The Shawshank Redemption,4
+85,User_085,7,Forrest Gump,3
+85,User_085,16,The Lion King,3
+85,User_085,13,Jurassic Park,5
+85,User_085,12,The Avengers,2
+85,User_085,11,Titanic,4
+85,User_085,1,Inception,5
+85,User_085,10,Gladiator,5
+85,User_085,2,The Matrix,2
+85,User_085,4,The Dark Knight,5
+85,User_085,3,The Godfather,2
+85,User_085,17,Frozen,5
+85,User_085,14,Toy Story,3
+85,User_085,18,Harry Potter and the Philosopher's Stone,4
+86,User_086,10,Gladiator,1
+86,User_086,15,Star Wars: A New Hope,5
+86,User_086,2,The Matrix,2
+86,User_086,19,The Lord of the Rings: The Fellowship of the Ring,2
+86,User_086,6,Fight Club,2
+86,User_086,12,The Avengers,3
+86,User_086,9,Interstellar,1
+86,User_086,8,The Shawshank Redemption,4
+86,User_086,11,Titanic,3
+86,User_086,18,Harry Potter and the Philosopher's Stone,4
+86,User_086,16,The Lion King,4
+86,User_086,7,Forrest Gump,3
+86,User_086,1,Inception,3
+86,User_086,5,Pulp Fiction,1
+86,User_086,17,Frozen,3
+86,User_086,13,Jurassic Park,5
+86,User_086,20,The Silence of the Lambs,1
+86,User_086,14,Toy Story,5
+86,User_086,4,The Dark Knight,4
+86,User_086,3,The Godfather,1
+87,User_087,19,The Lord of the Rings: The Fellowship of the Ring,2
+87,User_087,3,The Godfather,2
+87,User_087,6,Fight Club,5
+87,User_087,2,The Matrix,1
+87,User_087,11,Titanic,5
+87,User_087,15,Star Wars: A New Hope,2
+87,User_087,20,The Silence of the Lambs,5
+87,User_087,14,Toy Story,1
+87,User_087,4,The Dark Knight,4
+87,User_087,8,The Shawshank Redemption,5
+87,User_087,10,Gladiator,4
+87,User_087,18,Harry Potter and the Philosopher's Stone,3
+87,User_087,12,The Avengers,5
+87,User_087,5,Pulp Fiction,3
+87,User_087,16,The Lion King,5
+87,User_087,13,Jurassic Park,1
+87,User_087,1,Inception,5
+87,User_087,9,Interstellar,3
+87,User_087,7,Forrest Gump,3
+87,User_087,17,Frozen,1
+88,User_088,8,The Shawshank Redemption,2
+88,User_088,19,The Lord of the Rings: The Fellowship of the Ring,3
+88,User_088,18,Harry Potter and the Philosopher's Stone,2
+88,User_088,17,Frozen,1
+88,User_088,15,Star Wars: A New Hope,5
+88,User_088,6,Fight Club,4
+88,User_088,3,The Godfather,5
+88,User_088,20,The Silence of the Lambs,5
+88,User_088,5,Pulp Fiction,1
+88,User_088,10,Gladiator,5
+88,User_088,11,Titanic,3
+88,User_088,1,Inception,5
+88,User_088,13,Jurassic Park,1
+88,User_088,4,The Dark Knight,4
+88,User_088,12,The Avengers,5
+88,User_088,16,The Lion King,1
+88,User_088,9,Interstellar,1
+88,User_088,2,The Matrix,1
+88,User_088,7,Forrest Gump,1
+88,User_088,14,Toy Story,2
+89,User_089,2,The Matrix,3
+89,User_089,4,The Dark Knight,5
+89,User_089,9,Interstellar,4
+89,User_089,13,Jurassic Park,3
+89,User_089,8,The Shawshank Redemption,1
+89,User_089,11,Titanic,5
+89,User_089,15,Star Wars: A New Hope,1
+89,User_089,18,Harry Potter and the Philosopher's Stone,5
+89,User_089,16,The Lion King,4
+89,User_089,14,Toy Story,5
+89,User_089,12,The Avengers,2
+89,User_089,19,The Lord of the Rings: The Fellowship of the Ring,5
+89,User_089,1,Inception,4
+89,User_089,6,Fight Club,5
+89,User_089,7,Forrest Gump,1
+89,User_089,3,The Godfather,1
+89,User_089,17,Frozen,4
+89,User_089,10,Gladiator,1
+89,User_089,20,The Silence of the Lambs,4
+89,User_089,5,Pulp Fiction,4
+90,User_090,2,The Matrix,2
+90,User_090,9,Interstellar,1
+90,User_090,19,The Lord of the Rings: The Fellowship of the Ring,5
+90,User_090,16,The Lion King,4
+90,User_090,10,Gladiator,5
+90,User_090,3,The Godfather,1
+90,User_090,11,Titanic,3
+90,User_090,17,Frozen,1
+90,User_090,18,Harry Potter and the Philosopher's Stone,3
+90,User_090,1,Inception,4
+90,User_090,14,Toy Story,3
+90,User_090,4,The Dark Knight,2
+90,User_090,15,Star Wars: A New Hope,2
+90,User_090,6,Fight Club,4
+90,User_090,8,The Shawshank Redemption,1
+90,User_090,7,Forrest Gump,4
+90,User_090,5,Pulp Fiction,5
+90,User_090,12,The Avengers,4
+90,User_090,20,The Silence of the Lambs,5
+90,User_090,13,Jurassic Park,2
+91,User_091,15,Star Wars: A New Hope,3
+91,User_091,9,Interstellar,4
+91,User_091,13,Jurassic Park,4
+91,User_091,6,Fight Club,1
+91,User_091,11,Titanic,1
+91,User_091,7,Forrest Gump,4
+91,User_091,16,The Lion King,4
+91,User_091,2,The Matrix,2
+91,User_091,1,Inception,5
+91,User_091,19,The Lord of the Rings: The Fellowship of the Ring,5
+91,User_091,5,Pulp Fiction,2
+91,User_091,10,Gladiator,3
+91,User_091,8,The Shawshank Redemption,3
+91,User_091,14,Toy Story,2
+91,User_091,18,Harry Potter and the Philosopher's Stone,3
+91,User_091,4,The Dark Knight,5
+91,User_091,17,Frozen,1
+91,User_091,20,The Silence of the Lambs,3
+91,User_091,12,The Avengers,1
+91,User_091,3,The Godfather,3
+92,User_092,5,Pulp Fiction,4
+92,User_092,16,The Lion King,5
+92,User_092,6,Fight Club,5
+92,User_092,15,Star Wars: A New Hope,4
+92,User_092,4,The Dark Knight,5
+92,User_092,10,Gladiator,3
+92,User_092,20,The Silence of the Lambs,1
+92,User_092,18,Harry Potter and the Philosopher's Stone,1
+92,User_092,1,Inception,1
+92,User_092,19,The Lord of the Rings: The Fellowship of the Ring,2
+92,User_092,3,The Godfather,4
+92,User_092,14,Toy Story,4
+92,User_092,13,Jurassic Park,4
+92,User_092,12,The Avengers,1
+92,User_092,8,The Shawshank Redemption,4
+92,User_092,7,Forrest Gump,3
+92,User_092,9,Interstellar,3
+92,User_092,2,The Matrix,4
+92,User_092,17,Frozen,5
+92,User_092,11,Titanic,4
+93,User_093,12,The Avengers,3
+93,User_093,17,Frozen,3
+93,User_093,3,The Godfather,3
+93,User_093,20,The Silence of the Lambs,4
+93,User_093,18,Harry Potter and the Philosopher's Stone,2
+93,User_093,10,Gladiator,3
+93,User_093,16,The Lion King,5
+93,User_093,8,The Shawshank Redemption,5
+93,User_093,5,Pulp Fiction,3
+93,User_093,7,Forrest Gump,5
+93,User_093,1,Inception,2
+93,User_093,13,Jurassic Park,4
+93,User_093,6,Fight Club,4
+93,User_093,9,Interstellar,5
+93,User_093,15,Star Wars: A New Hope,2
+93,User_093,11,Titanic,1
+93,User_093,19,The Lord of the Rings: The Fellowship of the Ring,2
+93,User_093,14,Toy Story,3
+93,User_093,2,The Matrix,2
+93,User_093,4,The Dark Knight,4
+94,User_094,4,The Dark Knight,2
+94,User_094,3,The Godfather,1
+94,User_094,16,The Lion King,2
+94,User_094,9,Interstellar,1
+94,User_094,5,Pulp Fiction,4
+94,User_094,11,Titanic,3
+94,User_094,10,Gladiator,3
+94,User_094,7,Forrest Gump,4
+94,User_094,2,The Matrix,1
+94,User_094,12,The Avengers,5
+94,User_094,19,The Lord of the Rings: The Fellowship of the Ring,1
+94,User_094,1,Inception,1
+94,User_094,8,The Shawshank Redemption,4
+94,User_094,18,Harry Potter and the Philosopher's Stone,3
+94,User_094,13,Jurassic Park,5
+94,User_094,14,Toy Story,5
+94,User_094,15,Star Wars: A New Hope,2
+94,User_094,20,The Silence of the Lambs,5
+94,User_094,6,Fight Club,3
+94,User_094,17,Frozen,3
+95,User_095,20,The Silence of the Lambs,5
+95,User_095,19,The Lord of the Rings: The Fellowship of the Ring,5
+95,User_095,7,Forrest Gump,2
+95,User_095,1,Inception,5
+95,User_095,15,Star Wars: A New Hope,3
+95,User_095,11,Titanic,3
+95,User_095,5,Pulp Fiction,4
+95,User_095,17,Frozen,2
+95,User_095,9,Interstellar,1
+95,User_095,4,The Dark Knight,1
+95,User_095,10,Gladiator,2
+95,User_095,2,The Matrix,2
+95,User_095,12,The Avengers,3
+95,User_095,14,Toy Story,4
+95,User_095,8,The Shawshank Redemption,3
+95,User_095,16,The Lion King,1
+95,User_095,6,Fight Club,2
+95,User_095,3,The Godfather,3
+95,User_095,13,Jurassic Park,5
+95,User_095,18,Harry Potter and the Philosopher's Stone,3
+96,User_096,20,The Silence of the Lambs,3
+96,User_096,7,Forrest Gump,2
+96,User_096,9,Interstellar,1
+96,User_096,2,The Matrix,4
+96,User_096,19,The Lord of the Rings: The Fellowship of the Ring,4
+96,User_096,4,The Dark Knight,5
+96,User_096,13,Jurassic Park,1
+96,User_096,18,Harry Potter and the Philosopher's Stone,3
+96,User_096,10,Gladiator,1
+96,User_096,5,Pulp Fiction,3
+96,User_096,6,Fight Club,5
+96,User_096,11,Titanic,1
+96,User_096,15,Star Wars: A New Hope,4
+96,User_096,3,The Godfather,5
+96,User_096,12,The Avengers,4
+96,User_096,16,The Lion King,1
+96,User_096,1,Inception,1
+96,User_096,17,Frozen,2
+96,User_096,14,Toy Story,2
+96,User_096,8,The Shawshank Redemption,1
+97,User_097,1,Inception,5
+97,User_097,15,Star Wars: A New Hope,2
+97,User_097,14,Toy Story,3
+97,User_097,11,Titanic,1
+97,User_097,12,The Avengers,2
+97,User_097,10,Gladiator,2
+97,User_097,5,Pulp Fiction,2
+97,User_097,16,The Lion King,2
+97,User_097,17,Frozen,1
+97,User_097,4,The Dark Knight,4
+97,User_097,13,Jurassic Park,1
+97,User_097,18,Harry Potter and the Philosopher's Stone,3
+97,User_097,19,The Lord of the Rings: The Fellowship of the Ring,1
+97,User_097,9,Interstellar,3
+97,User_097,8,The Shawshank Redemption,5
+97,User_097,20,The Silence of the Lambs,4
+97,User_097,6,Fight Club,1
+97,User_097,2,The Matrix,5
+97,User_097,7,Forrest Gump,3
+97,User_097,3,The Godfather,2
+98,User_098,8,The Shawshank Redemption,1
+98,User_098,16,The Lion King,2
+98,User_098,2,The Matrix,5
+98,User_098,10,Gladiator,3
+98,User_098,6,Fight Club,3
+98,User_098,9,Interstellar,2
+98,User_098,5,Pulp Fiction,5
+98,User_098,17,Frozen,2
+98,User_098,15,Star Wars: A New Hope,5
+98,User_098,12,The Avengers,3
+98,User_098,1,Inception,5
+98,User_098,19,The Lord of the Rings: The Fellowship of the Ring,2
+98,User_098,13,Jurassic Park,2
+98,User_098,4,The Dark Knight,2
+98,User_098,7,Forrest Gump,2
+98,User_098,11,Titanic,1
+98,User_098,20,The Silence of the Lambs,2
+98,User_098,14,Toy Story,4
+98,User_098,18,Harry Potter and the Philosopher's Stone,4
+98,User_098,3,The Godfather,2
+99,User_099,4,The Dark Knight,4
+99,User_099,20,The Silence of the Lambs,5
+99,User_099,16,The Lion King,4
+99,User_099,17,Frozen,2
+99,User_099,1,Inception,1
+99,User_099,11,Titanic,5
+99,User_099,18,Harry Potter and the Philosopher's Stone,5
+99,User_099,12,The Avengers,2
+99,User_099,3,The Godfather,3
+99,User_099,14,Toy Story,5
+99,User_099,13,Jurassic Park,2
+99,User_099,5,Pulp Fiction,2
+99,User_099,10,Gladiator,5
+99,User_099,7,Forrest Gump,5
+99,User_099,8,The Shawshank Redemption,4
+99,User_099,2,The Matrix,4
+99,User_099,19,The Lord of the Rings: The Fellowship of the Ring,4
+99,User_099,9,Interstellar,4
+99,User_099,15,Star Wars: A New Hope,4
+99,User_099,6,Fight Club,3
+100,User_100,20,The Silence of the Lambs,2
+100,User_100,6,Fight Club,1
+100,User_100,18,Harry Potter and the Philosopher's Stone,3
+100,User_100,15,Star Wars: A New Hope,2
+100,User_100,1,Inception,2
+100,User_100,13,Jurassic Park,4
+100,User_100,9,Interstellar,5
+100,User_100,8,The Shawshank Redemption,2
+100,User_100,2,The Matrix,1
+100,User_100,5,Pulp Fiction,4
+100,User_100,4,The Dark Knight,5
+100,User_100,3,The Godfather,4
+100,User_100,16,The Lion King,5
+100,User_100,11,Titanic,2
+100,User_100,17,Frozen,2
+100,User_100,14,Toy Story,5
+100,User_100,19,The Lord of the Rings: The Fellowship of the Ring,5
+100,User_100,12,The Avengers,5
+100,User_100,7,Forrest Gump,3
+100,User_100,10,Gladiator,3
