@@ -4,4 +4,4 @@ It reads the sample data from the cvs file at the project directory and, train t
 
 Then recommend movies to users based on user ID via Rest API. 
 
-$ curl http://localhost:8080/recommendations/5
+$ curl http://localhost:8080/recommendations/{user_id}
