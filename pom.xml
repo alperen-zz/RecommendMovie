@@ -6,8 +6,8 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.4.1</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<version>3.4.1</version>
+		<relativePath/>
 	</parent>
 
 
@@ -16,12 +16,14 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>sparkmltest</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Machine Learning Demo</description>
 
 
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
+		<jakarta-servlet.version>4.0.3</jakarta-servlet.version>
+		<jersey.version>2.36</jersey.version>
 	</properties>
 
 	<dependencies>
@@ -52,32 +54,92 @@
 		<dependency>
 			<groupId>org.apache.spark</groupId>
 			<artifactId>spark-mllib_2.12</artifactId>
-			<version>3.4.3</version>
-		</dependency>
+			<version>3.5.0</version>
 
-
-		<!--dependency>
-			<groupId>org.apache.spark</groupId>
-			<artifactId>spark-mllib_2.12</artifactId>
-			<version>3.0.1</version>
 			<exclusions>
 				<exclusion>
-					<artifactId>janino</artifactId>
-					<groupId>org.codehaus.janino</groupId>
+					<groupId>javax.servlet</groupId>
+					<artifactId>javax.servlet-api</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>org.glassfish</groupId>
+					<artifactId>javax.servlet</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>org.eclipse.jetty.orbit</groupId>
+					<artifactId>javax.servlet</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency-->
+		</dependency>
 
-		<!-- Workaround for Spark + Spring Boot co-exist causing `janino` dependency need to be specific -->
+		<dependency>
+			<groupId>org.antlr</groupId>
+			<artifactId>antlr4-runtime</artifactId>
+			<version>4.9.3</version>
+			<type>maven-plugin</type>
+			<!--exclusions>
+				<exclusion>
+					<groupId>org.antlr</groupId>
+					<artifactId>antlr-runtime</artifactId>
+				</exclusion>
+
+			</exclusions-->
+		</dependency>
+
 		<!--dependency>
-
-			<!artifactId>janino</artifactId>
-			<groupId>org.codehaus.janino</groupId>
-			<version>3.0.9</version>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>4.0.1</version>
 		</dependency-->
+
+
+		<!-- Generative AI dependencies -->
+
+
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.ai</groupId>
+			<artifactId>spring-ai-openai-spring-boot-starter</artifactId>
+		</dependency>
+
 	</dependencies>
 
-	<!--build>
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.springframework.ai</groupId>
+				<artifactId>spring-ai-bom</artifactId>
+				<version>1.0.0-SNAPSHOT</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
+		</dependencies>
+	</dependencyManagement>
+
+	<repositories>
+		<repository>
+			<id>spring-milestones</id>
+			<name>Spring Milestones</name>
+			<url>https://repo.spring.io/milestone</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>spring-snapshots</id>
+			<name>Spring Snapshots</name>
+			<url>https://repo.spring.io/snapshot</url>
+			<releases>
+				<enabled>false</enabled>
+			</releases>
+		</repository>
+	</repositories>
+
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -91,8 +153,9 @@
 					</excludes>
 				</configuration>
 			</plugin>
-		</plugins>
-	</build-->
 
+
+		</plugins>
+	</build>
 
 </project>

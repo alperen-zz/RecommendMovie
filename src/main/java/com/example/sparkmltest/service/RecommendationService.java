@@ -8,24 +8,25 @@ import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
 
+import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.PostConstruct;
 
+//import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.Collections;
 
 import java.util.List;
 
 @Service
-public class RecommendationService {
+public class RecommendationService implements InitializingBean {
 
     @Autowired
     private SparkSession sparkSession;
     private ALSModel model;
 
-    @PostConstruct
+    //@PostConstruct
     public void trainModel(){
         Dataset<Row> ratings = loadRatingsData();
         model = trainALSModel(ratings);
@@ -101,5 +102,10 @@ public class RecommendationService {
         }
 
         return movieIds;
+    }
+
+    @Override
+    public void afterPropertiesSet() throws Exception {
+        trainModel();
     }
 }
