@@ -13,7 +13,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 
-//import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -26,7 +25,8 @@ public class RecommendationService implements InitializingBean {
     private SparkSession sparkSession;
     private ALSModel model;
 
-    //@PostConstruct
+    private static Dataset<Row> rowDataset;
+
     public void trainModel(){
         Dataset<Row> ratings = loadRatingsData();
         model = trainALSModel(ratings);
@@ -35,10 +35,12 @@ public class RecommendationService implements InitializingBean {
 
     private Dataset<Row> loadRatingsData(){
         String path = "movie_ratings_sample.csv";
-        return sparkSession.read().format("csv")
+        this.rowDataset = sparkSession.read().format("csv")
                 .option("header","true")
                 .option("inferSchema","true")
                 .load(path);
+
+        return rowDataset;
     }
 
     private ALSModel trainALSModel(Dataset<Row> ratings){
@@ -71,19 +73,12 @@ public class RecommendationService implements InitializingBean {
 
     public List<String> getRecommendations(int user_id){
 
-        printRows();
-
-        //Dataset<Row> users = sparkSession.createDataFrame(Collections.singletonList(Integer.valueOf(user_id)),Integer.class)
-        //        .toDF("user_id");
 
         String filter = "user_id="+user_id;
 
-        Dataset<Row> users = loadRatingsData().filter(filter);
+        Dataset<Row> users = this.rowDataset.filter(filter);
         users.printSchema();
         users.show();
-        //Dataset<Row> users = sparkSession.createDataset(users.filter(), Integer.class);
-
-        //Dataset<Row> users = sparkSession.createDataset(Collections.singletonList(user_id),Encoders.STRING());
 
 
         Dataset<Row> recommendations = model.recommendForUserSubset(users,5);
@@ -92,15 +87,26 @@ public class RecommendationService implements InitializingBean {
         if (rows.isEmpty()){
             return Collections.emptyList();
         }
-
+        System.out.println("Size of the recommendation list:"+ rows.size());
         Row row=rows.get(0);
         List<Row> records = row.getList(1);
         List<String> movieIds = new ArrayList<>();
 
-        for(Row rec :records){
-            movieIds.add(rec.getAs(0).toString());
-        }
+        String movieIdFilter = "movie_id=";
+        List<Row> movieNames;
+        String movieName;
 
+        for(Row rec :records){
+
+            movieNames = this.rowDataset.filter(movieIdFilter+rec.getAs(0).toString()).collectAsList();
+            Row tempRow = movieNames.get(0);
+            movieName = tempRow.getAs("movie_name");
+            movieIds.add(movieName);
+
+            //movieIds.add(rec.getAs(0).toString());
+
+        }
+        //movieIds contains movie names :)
         return movieIds;
     }
 
